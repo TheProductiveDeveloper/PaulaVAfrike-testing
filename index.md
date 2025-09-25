@@ -5,6 +5,8 @@ title: Afrika si ma zavolala - Paulína Hírešová
 
 ![cover photo](assets/img/darujme-pauli-velky-obr.jpeg)
 
+<br />
+
 # Afrika si ma zavolala
 
 ## Ako som sa dostala k misii:
