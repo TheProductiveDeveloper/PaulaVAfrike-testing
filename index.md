@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: fundrising_page
 title: Afrika si ma zavolala - Paulína Hírešová
 ---
 
