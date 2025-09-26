@@ -31,10 +31,12 @@ Ak by ste sa chceli stať súčasťou tohto dobrodružstva, dostávať bližšie
 Paulína Hírešová
 
 <div class="donated">
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
 </div>
