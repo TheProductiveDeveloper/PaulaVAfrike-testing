@@ -30,6 +30,13 @@ Ak by ste sa chceli stať súčasťou tohto dobrodružstva, dostávať bližšie
 
 Paulína Hírešová
 
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://jan-revay.github.io/PaulaVAfrike-Jekyll-minimal/" 
+ target="_blank" 
+ rel="noopener noreferrer"
+ style="display:inline-block; padding:10px 20px; background:#1877f2; color:white; border-radius:6px; text-decoration:none; font-weight:bold;">
+ Share on Facebook
+</a>
+
 {:.donated}
 | Už darovali  |                   |       |
 |:-------------|:------------------|:------|
