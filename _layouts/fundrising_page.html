@@ -76,9 +76,13 @@
           <p>Získaných <span id="raised"></span> z <span id="goal"></span></p>
       
         <script>
+          {% assign total = 0 %}
+          {% for row in site.data.darcovia %}
+            {% assign total = total | plus: row.suma %}
+          {% endfor %}
           // Change these numbers
           const goal = 3000;        // fundraising goal in $
-          const raised = 426;      // amount raised so far
+          const raised = {{ total }};      // amount raised so far
       
           const progressEl = document.getElementById('progress');
           const raisedEl = document.getElementById('raised');
