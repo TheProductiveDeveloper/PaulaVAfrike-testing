@@ -7,6 +7,8 @@ title: Afrika si ma zavolala - Paulína Hírešová
 
 <br />
 
+<div style="text-align: justify">
+
 # Afrika si ma zavolala
 
 ## Ako som sa dostala k misii?
@@ -29,6 +31,8 @@ Ako misijná dobrovoľníčka nebudem dostávať za moju prácu žiadnu finančn
 Ak by ste sa chceli stať súčasťou tohto dobrodružstva, dostávať bližšie informácie z miesta môjho pôsobiska a sledovať moju misiu v Angole, môžete mi zaslať svoju emailovú adresu na paula.v.afrike@gmail.com a ja Vás budem pravidelne informovať.
 
 Paulína Hírešová
+
+</div>
 
 <a href="https://www.facebook.com/sharer/sharer.php?u=https://jan-revay.github.io/PaulaVAfrike-Jekyll-minimal/" 
  target="_blank" 
