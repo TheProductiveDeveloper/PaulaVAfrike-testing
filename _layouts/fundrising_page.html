@@ -213,6 +213,38 @@
           </li>
         {% endfor %}
         </ul>
+
+
+
+        <div class="donated">
+        <p class="donated__header">Už darovali</p>
+
+        <table class="donated__table">
+              <tbody>
+
+          {% for darca in site.data.darcovia %}
+            <tr class="donated__row">
+              <td class="donated__col">{{ darca.meno }}   </td>
+              <td class="donated__col">{{ darca.sprava }} </td>
+              <td class="donated__col">{{ darca.suma }} € </td>
+            </tr>
+          {% endfor %}
+          </tbody></table>
+        
+          <div class="donated__controls">
+                <span class="donated__control-previous donated__control-icon donated__control-icon--disabled">
+                <i class="icon-arrow-back"></i>
+                </span>
+            
+                <div class="donated__control-text">
+                  {{ site.data.darcovia | size }} darov
+                </div>
+          
+                <a href="#" class="donated__control-next donated__control-icon " data-page="2">
+                <i class="icon-arrow-forward"></i>
+                </a>
+            </div>
+          </div>
       </section>
       <footer>
       </footer>
