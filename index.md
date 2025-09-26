@@ -30,8 +30,7 @@ Ak by ste sa chceli stať súčasťou tohto dobrodružstva, dostávať bližšie
 
 Paulína Hírešová
 
-<div class="donated">
-
+{:.donated}
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
@@ -39,4 +38,3 @@ Paulína Hírešová
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-</div>
