@@ -23,7 +23,7 @@ Prostredníctvom misijnej organizácie SAVIO, o. z., budem na tomto mieste pomá
 ## Aká je Angola?
 
 {: .justify }
-V Angole dlhé roky panovala občianska vojna. Dnes to tak, našťastie, už nie je. No napriek tomu tu stále vládne veľká chudoba, negramotnosť a nezamestna-nosť. Sieť domovov Dona Bosca poskytuje rôzne programy, ktoré reagujú na potreby detí žijúcich v slume a na ulici. Prvý kontakt saleziánskych misionárov s deťmi začína priamo v uliciach hlavného mesta Luanda. Ponúkajú im útočisko a možnosť vzdelávať sa.
+V Angole dlhé roky panovala občianska vojna. Dnes to tak, našťastie, už nie je. No napriek tomu tu stále vládne veľká chudoba, negramotnosť a nezamestnanosť. Sieť domovov Dona Bosca poskytuje rôzne programy, ktoré reagujú na potreby detí žijúcich v slume a na ulici. Prvý kontakt saleziánskych misionárov s deťmi začína priamo v uliciach hlavného mesta Luanda. Ponúkajú im útočisko a možnosť vzdelávať sa.
 
 ## Prečo potrebujem vašu pomoc?
 
