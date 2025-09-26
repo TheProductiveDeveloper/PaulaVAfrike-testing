@@ -136,7 +136,7 @@ Paulína Hírešová
 <br />
 
 <div class="donated">
-<p class="donated__header">Už darovali</p>
+<p class="donated__header">Už darovali FINAL</p>
 <table class="donated__table">
       <tbody>
   {% for darca in site.data.darcovia %}
