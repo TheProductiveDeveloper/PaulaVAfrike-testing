@@ -31,7 +31,7 @@ Ak by ste sa chceli stať súčasťou tohto dobrodružstva, dostávať bližšie
 Paulína Hírešová
 
 {:.donated}
-| head1        | head two          | three |
+| Už darovali  |                   |       |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
