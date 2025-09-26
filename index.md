@@ -58,7 +58,7 @@ Paulína Hírešová
 
 
 ---------------------------------------
-
+TODO - zamysliet sa nad tym, ci ta tabulka bude v template alebo v include alebo tu
 <br />
 <br />
 
