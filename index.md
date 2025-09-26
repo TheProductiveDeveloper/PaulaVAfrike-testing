@@ -38,3 +38,75 @@ Paulína Hírešová
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+
+<br />
+<br />
+<br />
+<br />
+
+<div class="donated">
+        <p class="donated__header">Už darovali</p>
+      <table class="donated__table">
+            <tbody><tr class="donated__row">
+            <td class="donated__col">Anonymný podporovateľ</td>
+            <td class="donated__col">👏</td>
+            <td class="donated__col">
+                      10 €
+                    </td>
+          </tr>
+            <tr class="donated__row">
+            <td class="donated__col">Paulína Kamenická</td>
+             <td class="donated__col">Drž sa ❤️ </td>
+            <td class="donated__col">
+                      10 €
+                    </td>
+          </tr>
+            <tr class="donated__row">
+            <td class="donated__col">Mária Farská</td>
+             <td class="donated__col">Si inšpiráciou❤️ </td>
+            <td class="donated__col">
+                      5 €
+                    </td>
+          </tr>
+            <tr class="donated__row">
+            <td class="donated__col">Veronika Jankechová</td>
+             <td class="donated__col">Drž sa tam :) </td>
+            <td class="donated__col">
+                      20 €
+                    </td>
+          </tr>
+            <tr class="donated__row">
+            <td class="donated__col">Anonymný podporovateľ</td>
+             <td class="donated__col">Všetko najlepšie Pauli ❤️ </td>
+            <td class="donated__col">
+                      50 €
+                    </td>
+          </tr>
+        <tr class="donated__row">
+            <td class="donated__col">Majka S.</td>
+             <td class="donated__col"> </td>
+            <td class="donated__col">
+                      100 €
+                    </td>
+          </tr>
+        <tr class="donated__row">
+            <td class="donated__col">Maťka a Janík</td>
+             <td class="donated__col"></td>
+            <td class="donated__col">
+                      60 €
+                    </td>
+          </tr>
+        </tbody></table>
+        <div class="donated__controls">
+            <span class="donated__control-previous donated__control-icon donated__control-icon--disabled">
+            <i class="icon-arrow-back"></i>
+          </span>
+        <div class="donated__control-text">
+          17 darov
+        </div>
+            <a href="#" class="donated__control-next donated__control-icon " data-page="2">
+            <i class="icon-arrow-forward"></i>
+          </a>
+        </div>
+</div>
+
